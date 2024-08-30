@@ -1,4 +1,3 @@
-
 #!/usr/bin/python3
 """N queens solution finder module.
 """
@@ -112,4 +111,3 @@ n = get_input()
 get_solutions()
 for solution in solutions:
     print(solution)
-
