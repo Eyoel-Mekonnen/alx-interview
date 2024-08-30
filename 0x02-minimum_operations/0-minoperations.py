@@ -1,9 +1,9 @@
 #!/usr/bin/python3
-"""The minimum operations coding challenge."""
+# The minimum operations coding challenge.
 
 
 def minOperations(n):
-    """Return Computes the fewest number of operations."""
+    # Return Computes the fewest number of operations.
     if not isinstance(n, int):
         return 0
     ops_count = 0
